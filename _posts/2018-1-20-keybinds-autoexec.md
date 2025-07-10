@@ -2,7 +2,7 @@
 layout: post
 title: Dota, Autoexec, and game design - What I've learned
 key: 20180120
-tags: Dota English Valve gamedev 
+tags: [ dota, english, valve, gamedev ] 
 ---
 
 [Source engine] is the product of **Valve Corporation** and is being currently used in its few flagship titles such as **Dota 2, Counter-Strike: Global Offensive,** and **Team Fortress 2.** One of its prominent features is to use a file called `autoexec.cfg` which allows the player to modify the game's user configuration to a possibly absurd degree. It could even be argued that this is in fact one of the distinguishing and a sought-after feature that adds a unique level of customization.  
